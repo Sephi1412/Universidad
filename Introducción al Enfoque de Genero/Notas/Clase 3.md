@@ -23,3 +23,6 @@
 > Encontrar algún área de las ciencias o la ingeniería donde las mujeres reciban cierto grado de opresión y como solucionarlo o mitigarlo. Por ejemplo, la misma escuela de ingeniería, el ámbito laboral, procesos de aprendizaje, relación con el cuerpo docente, etc.
 > 
 > Dicha pregunta tiene que ser contextualizada. Dar año, lugar y que es lo que ocurre.
+
+- Construcción Ideológica
+> Una serie de ideas que guía el comportamiento de un conglomerado de personas
