@@ -1,0 +1,17 @@
+# **Abstract**
+
+- BACKGROUND ::
+    - Andrew Millison, es un profesor de la Universidad de Oregon que imparte cursos sobre permacultura de manera online a un aproximado de 600 alumnos. Para poder impartir sus cursos y plasmar de manera visual lo que intenta enseñar, usa un arenero con un proyector. Donde puede moldear distintos tipos de terreno con la arena y luego usar el proyector para mostrar las curvas de nivel sobre el arenero.
+- PROBLEM :: 
+  - Naturalmente, no todos tienen la indumentaria para replicar este arenero para poder hacer experimentos y poner a prueba lo que han aprendido durante sus clases.
+- HYPOTHESIS :: 
+  - El no poder poner aprueba de manera práctica el conocimiento adquirido puede interrumpir el proceso de aprendizaje. Por lo que esto mejoraría si los alumnos que toman el curso pudiesen simular las cosas al igual que lo hace Andrew Millison con su arenero
+- PROPOSAL :: 
+  - Es por ello que se propone crear un "simulador virtual" del arenero en una aplicación web. Este debe darle la capacidad al alumno de:
+    - Moldear un terreno acotado
+    - Visualizar las curvas de nivel del terreno
+    - Agregar al terreno objetos como arboles o agua, o definir el material que conforma el terreno.
+  - En términos simples, "virtualizar" el arenero de Andrew Millison en una aplicación web para que todos tengan acceso él
+- (RESULTS) ::
+
+
