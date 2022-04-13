@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "c18f14eb6a82f5e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f5d91b1c0fe618",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-04-14.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aec425c514ddb03a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b34e44b64fab445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746fc29cb60de89b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2067ac7530c3d629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Pasted image 20220413004005.png\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edd8502e548e2672",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ba07c513fd3218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42217f972448b48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-04-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4569f73b6de77cb5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "26f5d91b1c0fe618",
+  "lastOpenFiles": [
+    "2022-04-14.md",
+    "Semestres Previos/Logaritmos/Apuntes Limpios/02 - Busqueda-texto.md",
+    "Semestres Previos/Logaritmos/Apuntes Limpios/03 - Union-Find.md",
+    "Semestres Previos/Logaritmos/Apuntes Limpios/05 - Memoria Externa.md",
+    "Semestres Previos/Logaritmos/Apuntes Limpios/01 - Cotas.md",
+    "Semestres Previos/Evaluación de Proyectos/Apuntes/08-30.md",
+    "Semestres Previos/Logaritmos/Apuntes Clase/06-10.md",
+    "Semestres Previos/Logaritmos/Apuntes Clase/03-16.md",
+    "Semestres Previos/Evaluación de Proyectos/Apuntes/09-01.md",
+    "Semestres Previos/Evaluación de Proyectos/Apuntes/08-26.md"
+  ]
+}
