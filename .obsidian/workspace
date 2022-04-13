@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "c18f14eb6a82f5e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "500a9b7b1dd0fddb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aec425c514ddb03a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b34e44b64fab445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746fc29cb60de89b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2067ac7530c3d629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Pasted image 20220413004005.png\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edd8502e548e2672",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ba07c513fd3218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42217f972448b48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4569f73b6de77cb5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "56c0640ab8f28650",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "500a9b7b1dd0fddb",
+  "lastOpenFiles": [
+    "Obsidian/img/Pasted image 20220413011403.png",
+    "Obsidian/Daily/2022-04-14.md",
+    "03-15.pdf",
+    "README.md",
+    "Obsidian/Templates/Daily Template.md",
+    "Practica II/Estructura del Informe.md",
+    "Obsidian/Daily/2022-04-15.md",
+    "Obsidian/Daily/2022-04-16.md",
+    "Obsidian Notes/2022-04-13.md",
+    "Proyecto de Software/Notas/03-15.md"
+  ]
+}
