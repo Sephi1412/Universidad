@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26f5d91b1c0fe618",
+        "id": "500a9b7b1dd0fddb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-04-14.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +82,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "56c0640ab8f28650",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -95,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "26f5d91b1c0fe618",
+  "active": "500a9b7b1dd0fddb",
   "lastOpenFiles": [
-    "2022-04-14.md",
-    "Semestres Previos/Logaritmos/Apuntes Limpios/02 - Busqueda-texto.md",
-    "Semestres Previos/Logaritmos/Apuntes Limpios/03 - Union-Find.md",
-    "Semestres Previos/Logaritmos/Apuntes Limpios/05 - Memoria Externa.md",
-    "Semestres Previos/Logaritmos/Apuntes Limpios/01 - Cotas.md",
-    "Semestres Previos/Evaluación de Proyectos/Apuntes/08-30.md",
-    "Semestres Previos/Logaritmos/Apuntes Clase/06-10.md",
-    "Semestres Previos/Logaritmos/Apuntes Clase/03-16.md",
-    "Semestres Previos/Evaluación de Proyectos/Apuntes/09-01.md",
-    "Semestres Previos/Evaluación de Proyectos/Apuntes/08-26.md"
+    "Obsidian/img/Pasted image 20220413011403.png",
+    "Obsidian/Daily/2022-04-14.md",
+    "03-15.pdf",
+    "README.md",
+    "Obsidian/Templates/Daily Template.md",
+    "Practica II/Estructura del Informe.md",
+    "Obsidian/Daily/2022-04-15.md",
+    "Obsidian/Daily/2022-04-16.md",
+    "Obsidian Notes/2022-04-13.md",
+    "Proyecto de Software/Notas/03-15.md"
   ]
 }

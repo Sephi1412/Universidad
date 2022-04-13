@@ -5,11 +5,16 @@
   "graph",
   "backlink",
   "page-preview",
+  "daily-notes",
+  "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "markdown-importer",
   "word-count",
+  "slides",
+  "audio-recorder",
   "open-with-default-app",
   "file-recovery"
 ]
