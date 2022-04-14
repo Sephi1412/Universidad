@@ -1,5 +1,5 @@
 # Introducción
-Compañeras, compañeros, cuerpo docente. A continuación, yo, Cristian Bustos les contaré sobre el estado actual del proyecto que nuestro equipo actualmente está desarrollando para **LVA Indices**: Controles de Límites de Inversión
+Compañeras, compañeros, cuerpo docente. A continuación, yo, Cristian Bustos les contaré sobre el estado actual del proyecto que nuestro equipo está desarrollando para **LVA Indices**: Controles de Límites de Inversión
 
 # Contexto
 Antes de iniciar, un pequeño contexto.
