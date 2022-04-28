@@ -13,8 +13,8 @@
     "en-US"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "Obsidian Notes",
-  "alwaysUpdateLinks": false,
+  "newFileFolderPath": "Obsidian/Notes",
+  "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "Obsidian/img"
+  "attachmentFolderPath": "Obsidian/Media"
 }

@@ -8,3 +8,5 @@
 5. Andres Bello: Conocimiento Contemplativo
    - Las ciencias solo se contemplan y describen, centradas en las letras y el goce espiritual.
    - Intenta segmentar 
+
+![[Pasted image 20220427235129.png]]
