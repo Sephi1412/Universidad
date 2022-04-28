@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "24ea9a5a96226164",
+        "id": "14c13c8cfde33016",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingeniería Tecnología y Sociedad/Apuntes/Lectura 4.md",
+            "file": "Evalua TI/Notas/04-28.md",
             "mode": "source",
             "source": false
           }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Tecnología y Sociedad/Apuntes/Lectura 4.md",
+                "file": "Evalua TI/Notas/04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -96,23 +96,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "24ea9a5a96226164",
+  "active": "14c13c8cfde33016",
   "lastOpenFiles": [
-    "Ingeniería Tecnología y Sociedad/Apuntes/Lectura 4.md",
-    "Ingeniería Tecnología y Sociedad/Apuntes/Lectura 3.md",
-    "Pasted image 20220413105333.png.md",
-    "Pasted image 20220427234631.png",
-    "Ingeniería Tecnología y Sociedad/Apuntes/Lectura 2.md",
-    "Ingeniería Tecnología y Sociedad/Apuntes/Lectura 1.md",
-    "Camino a la Extincion/Notas/04-22.md",
-    "Ingles 5/Control/Control 1.md",
-    "Ingles 5/Notas/03-23.md",
-    "Ingles 5/Notas/03-30.md"
+    "Evalua TI/Notas/04-28.md",
+    "Obsidian/Notes/beneficios privados.md",
+    "Obsidian/Media/Recording 20220428115923.webm",
+    "Evalua TI/img/2022-03-31 131127.png",
+    "Evalua TI/img/2022-03-31 130831.png",
+    "Evalua TI/img/2022-03-31 130442.png",
+    "Evalua TI/img/2022-03-31 125506.png",
+    "Obsidian/Notes/Estimación de Costos y Beneficios.md",
+    "Obsidian/Notes/Pasted image 20220413105333.png.md",
+    "Evalua TI/Notas/04-07.md"
   ]
 }
