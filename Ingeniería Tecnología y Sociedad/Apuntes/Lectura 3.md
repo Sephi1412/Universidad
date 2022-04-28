@@ -27,3 +27,6 @@
 # Conclusión
 
 >**Básicamente Chile no se reconstruyó ni reformó**. Quedó atrás empleando estrategias de producción obsoletas, mientras que países como Japón y Suecia si se restructuraron, dándoles más holgura para superar las crisis
+
+
+![[Pasted image 20220427234631.png]]
