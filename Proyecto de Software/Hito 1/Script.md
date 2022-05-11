@@ -23,12 +23,15 @@ Pero entonces ¿Dónde entra nuestro cliente en todo esto y cual es el problema 
 
 En busca de crecer más y ofrecer un servicio más completo, **LVA** propone la creación de una herramienta que permita ayudar a las **AGF** validar que sus movimientos respeten su reglamento interno.
 
+## ¿Quien es el Usuario?
+Tal y como di a entender recién, el usuario serían las Administradoras Generales de Fondos. Esto principalmente porque su personal no son expertos en este tipo de validaciones. Por lo que pueden demorarse o cometer errores en el proceso.
+
 ## ¿Por que es necesario?
 Quizás alguno de ustedes se esté haciendo esta pregunta. Previamente, mencioné que existe un ente fiscalizador ¿Para que se necesitaría una herramienta que valide los reglamentos? 
 
-La respuesta es simple: Cada **AGF** debe validad su propio reglamento, la **CMF**, aleatoriamente toma una muestra de validaciones y comprueba si están bien hechas o no.
+La respuesta es simple: La **CMF** se limita a comprobar una pequeña parte de los reglamentos, ya que es imposible revisarlos todos.
 
-Esto supone que la responsabilidad cae en las **AGF**. Y si ellos se equivocan, pueden recibir penalizaciones como multas por ello
+Esto supone que la responsabilidad cae totalmente en las **AGF**. Y si ellos se equivocan, pueden recibir penalizaciones como multas por ello
 
 Y bueno, es bastante probable que ocurran errores. Por ejemplo:
 - Tiempo limitado
@@ -58,6 +61,13 @@ Capacidad de hacer consultas al reglamento y validar si los instrumentos de un f
 ## Mostrar Validaciones
 Se puede mostrar en front end si se cumple o no el reglamento
 
-# DEMO
 
 
+# Punteo de presentación
+
+- Inicio con saludo
+- Primero, contexto
+- Dinero como pilar fundamental de la sociedad
+- Alternativas de ahorro: Fondos Mutuos
+- CMF como entidad reguladora para fomentar la confianza al invertir en los fondos
+- ¿Donde entra LVA en todo esto?
