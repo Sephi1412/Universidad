@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Evalua TI/Notas/04-28.md",
+            "file": "Introducción Trabajo de Titulo/05-18.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evalua TI/Notas/04-28.md",
+                "file": "Introducción Trabajo de Titulo/05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "14c13c8cfde33016",
   "lastOpenFiles": [
+    "Introducción Trabajo de Titulo/05-18.md",
+    "Introducción Trabajo de Titulo/Borrador.md",
+    "Introducción Trabajo de Titulo/Apuntes/03-09.md",
+    "Introducción Trabajo de Titulo/Apuntes/03-30.md",
+    "Introducción Trabajo de Titulo/Propuesta v2.md",
+    "Obsidian/Daily/2022-05-11.md",
     "Evalua TI/Notas/04-28.md",
     "Obsidian/Notes/beneficios privados.md",
     "Obsidian/Media/Recording 20220428115923.webm",
-    "Evalua TI/img/2022-03-31 131127.png",
-    "Evalua TI/img/2022-03-31 130831.png",
-    "Evalua TI/img/2022-03-31 130442.png",
-    "Evalua TI/img/2022-03-31 125506.png",
-    "Obsidian/Notes/Estimación de Costos y Beneficios.md",
-    "Obsidian/Notes/Pasted image 20220413105333.png.md",
-    "Evalua TI/Notas/04-07.md"
+    "Evalua TI/img/2022-03-31 131127.png"
   ]
 }
