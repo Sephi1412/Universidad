@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camino a la Extincion/Notas/05-06.md",
+            "file": "Introducción Trabajo de Titulo/Documentation/Getting Started.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pasted image 20220413004005.png\"",
+                "query": "Concepts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "edd8502e548e2672",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camino a la Extincion/Notas/05-06.md",
+                "file": "Introducción Trabajo de Titulo/Documentation/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,24 +99,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "14c13c8cfde33016",
   "lastOpenFiles": [
-    "Camino a la Extincion/Notas/05-06.md",
-    "Ingles 5/Notas/05-06.md",
-    "Proyecto de Software/Notas/05-04.md",
-    "Proyecto de Software/Notas/05-03.md",
-    "Proyecto de Software/Notas/05-03 1.md",
-    "Ingles 5/Notas/04-29.md",
+    "Introducción Trabajo de Titulo/Documentation/Getting Started.md",
+    "Introducción Trabajo de Titulo/05-18.md",
+    "Introducción Trabajo de Titulo/Borrador.md",
+    "Introducción Trabajo de Titulo/Apuntes/03-09.md",
+    "Introducción Trabajo de Titulo/Apuntes/03-30.md",
+    "Introducción Trabajo de Titulo/Propuesta v2.md",
+    "Obsidian/Daily/2022-05-11.md",
     "Evalua TI/Notas/04-28.md",
     "Obsidian/Notes/beneficios privados.md",
-    "Obsidian/Media/Recording 20220428115923.webm",
-    "Evalua TI/img/2022-03-31 131127.png"
+    "Obsidian/Media/Recording 20220428115923.webm"
   ]
 }

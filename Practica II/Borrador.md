@@ -1,3 +1,13 @@
+# Resumen
+
+La presente práctica fue realizada en Tech-K, consultora que da asesoría comercial. Actualmente desarrollan multiples proyectos de forma paralela y decidieron desarrollar proyectos que intenten dejar un beneficio a la sociedad. Por ello crearon Bag App, una aplicación que busca dar empleo y remunerar a gente que no tiene otra opción que trabajar desde su hogar.
+
+El stack tecnológico empleado para desarrollar el proyecto consiste en React Native y Django REST. Siendo estos frameworks que no se ven en la universidad, el practicante tuvo que pasar por procesos de capacitación intensivos.
+
+Con dichos conocimientos, tuvo que dedicarse a solventar la deuda técnica que el proyecto venía arrastrando desde hace meses, para luego trabajar sobre el sistema de pagos que emplea la aplicación.
+
+Debido a esto, el estudiante desarrolló múltiples fortalezas en el área de desarrollo web y móvil, en particular con JavaScript y Python.  Gracias al desafío enfrentado, se comprendió de primera mano valores como la responsabilidad, compromiso y la relevancia de tener iniciativa en un trabajo colaborativo.
+
 # Descripción general de la práctica
 
 - Tech-K está desarrollando una aplicación llamada \textbf{Bag App}, la cual tiene como objetivo ofrecer servicios de lavado y planchado ropa a domicilio. El principio de acción es similar a otras aplicaciones de \textit{delivery}, donde el usuario contrata un servicio, alguien en un vehículo viene a retirar el producto, en este caso ropa, y se la lleva a otra persona que se encarga de lavarla y plancharla.
