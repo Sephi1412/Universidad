@@ -2,5 +2,8 @@
   "cssTheme": "Things",
   "translucency": true,
   "theme": "obsidian",
-  "baseFontSize": 17
+  "baseFontSize": 81,
+  "enabledCssSnippets": [
+    "test"
+  ]
 }
