@@ -1,7 +1,3 @@
-* {
-    --opacity-translucency: 0.49 !important;   
-}
-
 .cm-header-2 {
     color: rgb(0, 225, 255) !important;
 }
@@ -33,4 +29,12 @@
 .cm-highlight {
     padding-left: 3px !important;
     padding-right: 3px !important;
+}
+
+.markdown-source-view{
+    background-color: rgba(0, 0, 0, 0.56) !important;
+}
+
+.workspace-tabs{
+    background-color: rgba(0, 0, 0, 0.56) !important;
 }

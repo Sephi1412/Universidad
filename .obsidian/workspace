@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Evalua TI/Apuntes/C1/Unidad 3.md",
+            "file": "Proyecto de Software/Hito 2/Estructura Presentación - Hito 2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8477174b4f52b20c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Proyecto de Software/Hito 1/Script.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "VAN",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +61,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 381.5
   },
   "right": {
     "id": "edd8502e548e2672",
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evalua TI/Apuntes/C1/Unidad 3.md",
+                "file": "Proyecto de Software/Hito 2/Estructura Presentación - Hito 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "27144737fe360353",
   "lastOpenFiles": [
+    "Proyecto de Software/Hito 2/Estructura Presentación - Hito 2.md",
+    "Proyecto de Software/Hito 1/Script.md",
+    "Proyecto de Software/Hito 1/Script 2.md",
     "Evalua TI/Apuntes/C1/Unidad 3.md",
     "Evalua TI/Apuntes/C1/Unidad 2.md",
     "Introducción Trabajo de Titulo/Apuntes/Propuesta v2.md",
     "Practica II/Borrador.md",
     "Evalua TI/Notas/04-28.md",
     "Evalua TI/Notas/03-01.md",
-    "Introducción Trabajo de Titulo/Apuntes/03-30.md",
-    "Proyecto de Software/Notas/03-23.md",
-    "Proyecto de Software/Reuniones/03-22.md",
-    "Ingles 5/Notas/03-11.md"
+    "Introducción Trabajo de Titulo/Apuntes/03-30.md"
   ]
 }
