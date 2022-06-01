@@ -1,5 +1,13 @@
+.cm-header-1 {
+    color: white !important;
+}
+
 .cm-header-2 {
     color: rgb(0, 225, 255) !important;
+}
+
+.cm-header-3 {
+    color: rgb(17, 182, 204) !important;
 }
 
 .cm-strong {
@@ -16,10 +24,6 @@
         0 0 7px rgb(161, 160, 160),
     
         0 0 102px rgb(77, 13, 69);
-}
-
-.cm-header-1 {
-    color: white !important;
 }
 
 .cm-quote {

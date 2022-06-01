@@ -2,7 +2,7 @@
   "cssTheme": "Things",
   "translucency": true,
   "theme": "obsidian",
-  "baseFontSize": 81,
+  "baseFontSize": 135,
   "enabledCssSnippets": [
     "test"
   ]
