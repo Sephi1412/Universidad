@@ -1,0 +1,44 @@
+.cm-header-1 {
+    color: white !important;
+}
+
+.cm-header-2 {
+    color: rgb(0, 225, 255) !important;
+}
+
+.cm-header-3 {
+    color: rgb(17, 182, 204) !important;
+}
+
+.cm-strong {
+    color: rgb(248, 211, 0) !important;
+    text-shadow:
+        0 0 7px rgb(161, 160, 160),
+    
+        0 0 102px rgb(77, 13, 69);
+}
+
+.cm-em {
+    color: rgb(225, 215, 10) !important;
+    text-shadow:
+        0 0 7px rgb(161, 160, 160),
+    
+        0 0 102px rgb(77, 13, 69);
+}
+
+.cm-quote {
+    color: rgb(145, 189, 101) !important;
+}
+
+.cm-highlight {
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+}
+
+.markdown-source-view{
+    background-color: rgba(0, 0, 0, 0.56) !important;
+}
+
+.workspace-tabs{
+    background-color: rgba(0, 0, 0, 0.56) !important;
+}
