@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introducción Trabajo de Titulo/Documentation/Getting Started.md",
+            "file": "Ingles 5/Control/Control 2.md",
             "mode": "source",
             "source": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "edd8502e548e2672",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción Trabajo de Titulo/Documentation/Getting Started.md",
+                "file": "Ingles 5/Control/Control 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "14c13c8cfde33016",
   "lastOpenFiles": [
-    "Introducción Trabajo de Titulo/Documentation/Getting Started.md",
-    "Introducción Trabajo de Titulo/05-18.md",
-    "Introducción Trabajo de Titulo/Borrador.md",
-    "Introducción Trabajo de Titulo/Apuntes/03-09.md",
+    "Ingles 5/Control/Control 2.md",
+    "Proyecto de Software/Notas/06-10.md",
+    "Introducción Trabajo de Titulo/Apuntes/05-25.md",
+    "Introducción Trabajo de Titulo/Apuntes/05-24.md",
+    "Introducción Trabajo de Titulo/Apuntes/Borrador.md",
+    "Introducción Trabajo de Titulo/Apuntes/Propuesta v2.md",
     "Introducción Trabajo de Titulo/Apuntes/03-30.md",
-    "Introducción Trabajo de Titulo/Propuesta v2.md",
-    "Obsidian/Daily/2022-05-11.md",
-    "Evalua TI/Notas/04-28.md",
-    "Obsidian/Notes/beneficios privados.md",
-    "Obsidian/Media/Recording 20220428115923.webm"
+    "Introducción Trabajo de Titulo/Apuntes/05-18.md",
+    "Introducción Trabajo de Titulo/Apuntes/03-09.md",
+    "Introducción Trabajo de Titulo/02-informe/propuesta.pdf"
   ]
 }
