@@ -4,7 +4,7 @@ Compañeras, compañeros, cuerpo docente. A continuación, yo, Cristian Bustos l
 # Contexto (Repaso)
 
 ## ¿Quien es nuestro cliente?
-**LVA Indices** es una consultora que otorga distintos tipos de servicios a las *Administradoras Generales de Fondos* principalmente de análisis y predicciones sobre instrumentos financieros, mediante el uso de herramientas digitales. Estos servicios buscan ofrecer a sus clientes maximizar sus beneficios. 
+**LVA Indices** es una consultora que otorga distintos tipos de servicios a las *Administradoras Generales de Fondos* principalmente de análisis y predicciones sobre instrumentos financieros mediante el uso de herramientas digitales. Estos servicios buscan ofrecer a sus clientes maximizar sus beneficios. 
 
 ## ¿Cual es el problema?
 Tal y como mencionamos en la presentación anterior, los fondos mutuos tienen un **reglamento interno**, el cual actúa como una garantía para quienes decidan participar en dicho fondo. Este reglamento declara el tipo de inversiones y como será.
@@ -14,11 +14,7 @@ En el caso de que no respeten dicho arreglo, pueden recibir distintos tipos de s
 Es por ello que respetar este reglamento interno es de suma relevancia, pero validarlos puede ser una tarea tediosa y en la que fácilmente uno puede cometer errores. Esto pues tienen una ventana de tiempo acotada para revisar la data y actualmente eso se hace en Excel. Con pasar a llevar el teclado por accidente uno puede romper todo el sistema.
 
 ## ¿Cual es la solución?
-Considerando la naturaleza de la tarea que se debe hacer, se propone *crear una aplicación web que automáticamente verifique si los movimientos de hechos por las Administradoras de Fondos respetan el reglamento*. Esto pues permitiría:
-
-1. Al ser una app web, puede ser usada desde cualquier computador sin ninguna instalación
-2. Los resultados arrojados por el sistema pueden ser compartidos con facilidad
-3. Al ser automático quitamos el error humano de la ecuación
+Considerando la naturaleza de la tarea que se debe hacer, se propone *crear una aplicación web que automáticamente verifique si los movimientos de hechos por las Administradoras de Fondos respetan el reglamento*. 
 
 # Iteración 1
 ## Imágenes Proyecto Anterior
