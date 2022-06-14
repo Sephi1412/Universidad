@@ -22,10 +22,7 @@
 
 # Reporting Verbs
 
-Reporting verb + infinitive, 
-Reporting verb + object + infinitive,
-Reporting verb + verb –ing
-
+![[Pasted image 20220614145124.png]]
 
 ## Say/Said/Said: 
    - She said (that) she had already eaten. **say + (that) + clause**
@@ -38,7 +35,7 @@ Reporting verb + verb –ing
    - I asked my boss if I could leave early. **<ask + someone + if / question word + clause>**
    - I asked Lucy to pass me the salt. **<ask + someone + to + infinitive>**
 
-## Advice/Advised/Advised
+## Advise/Advised/Advised
    - She advised him to see a doctor. **<Advise + someone + to + infinitive>**
    - The staff advise that you carry water at all times. **<Advise + (that) + clause>**
    - I'd advise against leaving early. **<Advise + against + verb-ing>**
@@ -87,3 +84,16 @@ Reporting verb + verb –ing
 ## Warn/Warned/Warned
 -   I warned them not to go in the water. **Warn + someone + (not) + to + infinitive**
 -   She warned us about the dangerous roads. **Warn + someone + about + something**
+
+
+# Articles
+
+
+
+
+# Observaciones
+1. Si para que suene bien requiere de una persona, usamos: `persona + infinitivo`
+2. Probar como suenan en función de:
+   - To do something
+   - (Subj) to do something
+   - Doing something
