@@ -58,3 +58,11 @@ animate();
 1. `requestAnimationFrame` has to receive the name of the function that invokes it to create the loop.
 2. Then, we can do everything we want, whether modifying 3D objects, calculate something, manage logic of a game, etc. In this case, we're rotating a cube.
 3. Finally, we have to render everything to see the modifications made in the previous points.
+
+
+# Main Concepts
+1. [[Render]]
+2. [[Camera]]
+3. [[Scene]]
+4. [[Geometry]]
+5. [[Material]]
