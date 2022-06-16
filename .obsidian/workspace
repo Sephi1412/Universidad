@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27144737fe360353",
+        "id": "a962a763813cea83",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ingles 5/Control/Control 2.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "52e7b00fb1b4d9e5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ingles 5/Control/Control 2.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingles 5/Control/Control 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,20 +96,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "52e7b00fb1b4d9e5",
+  "active": "a962a763813cea83",
   "lastOpenFiles": [
+    "Obsidian/Daily/2022-06-15.md",
+    "Evalua TI/Apuntes/C1/Unidad 2.md",
+    "Evalua TI/Apuntes/C1/Unidad 1.png",
+    "Evalua TI/Apuntes/C1/Resumen.md",
+    "Ingeniería Tecnología y Sociedad/Apuntes/Repaso C2.md",
+    "Ingeniería Tecnología y Sociedad/Apuntes/Lectura 1.md",
+    "Ingeniería Tecnología y Sociedad/Apuntes/Repaso Libro C2.md",
     "Ingles 5/Control/Control 2.md",
     "Unidad 2.pdf",
-    "Obsidian/Daily/2022-06-14.md",
-    "Ingles 5/Notas/05-06.md",
-    "Ingeniería Tecnología y Sociedad/Apuntes/Lectura 4.md",
-    "Ingeniería Tecnología y Sociedad/Apuntes/Repaso C2.md",
-    "Introducción Trabajo de Titulo/Apuntes/Propuesta v2.md",
-    "Proyecto de Software/Hito 2/Script Presentación.md",
-    "Proyecto de Software/Hito 2/Palabras Clave.md",
-    "Proyecto de Software/Hito 2/Estructura Presentación.md"
+    "Obsidian/Daily/2022-06-14.md"
   ]
 }

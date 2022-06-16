@@ -58,3 +58,5 @@ Identifica la misión del negocio. Es clave para la formulación de los planes d
 - Optimización del proyecto
 
 
+
+![[Recording 20220615171528.webm]]
