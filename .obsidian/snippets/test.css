@@ -1,5 +1,10 @@
+.cm-header {
+    font-size: 60px !important;
+}
+
 .cm-header-1 {
     color: white !important;
+    font-size: 30px !important;
 }
 
 .cm-header-2 {
@@ -25,10 +30,16 @@
     
         0 0 102px rgb(77, 13, 69);
 }
+.cm-inline-code{
+    background-color: rgba(255, 217, 0, 0.361) !important;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 6px;
+}
 
 .cm-quote {
     color: rgb(145, 189, 101) !important;
-}
+}   
 
 .cm-highlight {
     padding-left: 3px !important;
@@ -36,9 +47,9 @@
 }
 
 .markdown-source-view{
-    background-color: rgba(0, 0, 0, 0.56) !important;
+    background-color: rgba(46, 4, 61, 0.171) !important;
 }
 
 .workspace-tabs{
-    background-color: rgba(0, 0, 0, 0.56) !important;
+    background-color: rgba(20, 11, 18, 0.56) !important;
 }
