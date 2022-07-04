@@ -1,0 +1,15 @@
+# Introduction
+
+Our planet is currently experiencing one of the most critical water and environmental crises in recorded history, being the aggressive human intervention in nature the main culprit. We as a species have spent many years trying to dominate nature by force, causing practically irreversible damage instead of working together with it. Noticing all the damage we already made, Bill Mollison and David Holmgren created the concept of permaculture, a way of living that tries to turn our negative impact over nature into a positive one.
+
+Most people ignore said crisis, either because they have their own problems or they simply do not know his magnitude. That's why even when this could end our civilization, not a lot of resources are put into find solutions.
+
+Even if the current scenario doesn't seems to be positive at all, we have knowledge and tools at our service that could be use to find a way to stop the environmental crisis. The fact we live in a society where smartphones and computers are used for everything, it's easier than ever to spread information and give to the world access to software and applications that could help us to deal with this problem.
+
+At this point, it's obvious that there's not an clear path to follow to stop this crisis. But it's also obvious that living as the concept of permaculture proposes could be a great starting point.
+
+As an example where the usage of digital tools such as applications could be beneficial we have Andrew Millison. is an instructor in the Horticulture department who makes courses on permaculture at the Oregon University, in introductory or advanced levels. One of the main characteristics of these courses is that they are online, which allows him to reach the homes of hundreds of students. Given such a large quantity, and the limitations of a digital platform used, it can be difficult to meet the needs of all his students or capture what is taught in a simple way, even more so because the subject is more practical than theoretical. 
+
+In an attempt to make his classes easier to understand, Andrew started using a system composed of a sandbox, sensors and a projector that allows him to create different variations of terrains in real time. With it, he can display contour lines on the sandbox or add elements to his sandbox such as water and trees to see how they interact with the terrain in different configurations. This allows his students to easily visualize the concepts being studied, and more importantly, because it’s a simulation of what happens in nature, they can see them in accelerated time. Thus removing one of the most significant limitations associated with the study of permaculture. 
+
+While it is true that this presents a significant advance for what are online permaculture classes, this is a configuration too complex or impossible for their students to replicate it at home. The practical work is very important, and given the time limitations related to nature itself, it’s a difficult task to do without having a working environment like the one Andrew’s has
