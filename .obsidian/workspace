@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a962a763813cea83",
+        "id": "27144737fe360353",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introducción Trabajo de Titulo/Propuesta V3.md",
+            "file": "Proyecto de Software/Hito 3/Script.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "528f716ef48a7491",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Proyecto de Software/Hito 1/Script.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción Trabajo de Titulo/Propuesta V3.md",
+                "file": "Proyecto de Software/Hito 3/Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,24 +109,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "a962a763813cea83",
+  "active": "27144737fe360353",
   "lastOpenFiles": [
-    "Introducción Trabajo de Titulo/Propuesta V3.md",
-    "Introducción Trabajo de Titulo/Apuntes/Propuesta v2.md",
-    "Introducción Trabajo de Titulo/02-informe/propuesta.pdf",
-    "Introducción Trabajo de Titulo/Apuntes/03-30.md",
-    "Introducción Trabajo de Titulo/Apuntes/03-09.md",
-    "Camino a la Extincion/Actividad (G8).md",
+    "Proyecto de Software/Hito 3/Script.md",
+    "Proyecto de Software/Hito 1/Script.md",
+    "Proyecto de Software/Hito 1/Script 2.md",
+    "Proyecto de Software/Hito 2/Script Presentación.md",
     "Introducción Trabajo de Titulo/Propuesta Avanzada.md",
-    "Ingles 5/Tareas/Formative Evaluation 04-01.md",
-    "Ingles 5/Tareas/Formative Evaluation 06-17.md",
-    "Evalua TI/Apuntes/C1/Unidad 1.pdf"
+    "Proyecto de Software/Hito 2/Estructura Presentación - Hito 2.md",
+    "Evalua TI/Apuntes/C1/Unidad 3.md",
+    "Evalua TI/Apuntes/C1/Unidad 2.md",
+    "Introducción Trabajo de Titulo/Apuntes/Propuesta v2.md",
+    "Practica II/Borrador.md"
   ]
 }
