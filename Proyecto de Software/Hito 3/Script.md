@@ -54,8 +54,38 @@ Además, el stack stack tecnológico debe estar conformado por:
 
 
 # Desarrollo
+Lo primero que hicimos como equipo fue analizar la situación en la que nos encontrábamos. Con poco más de tres meses era necesario considerar la posibilidad de que no ser capaz de concretar absolutamente todo.
+
+Es por ello que nos fijamos objetivos por iteración. Objetivos que le generen el mayor valor a nuestros clientes.
+
+## Iteración 1
+Los objetivos fijados para la primera iteración fueron:
+- Recibir capacitación necesaria para entender el lenguaje técnico de los reglamentos internos. Esto pues nosotros debíamos ser capaces de entenderlos, para luego crear funciones de validación a partir de ellos
+- Probar que el stack tecnológico fijado fuese capaz de crear una aplicación con las características solicitadas.
+
+El resultado de estos objetivos fue una simple vista, en la que cargábamos una regla, su descripción y los resultados de dicha validación.
+
+Mientras tanto, el equipo de LVA diseñó un mock up en donde se especificaban los requisitos estéticos y funcionales de la aplicación
+
+## Iteración 2
+A este punto, teniendo el mock up en mano, el siguiente paso era intentar recrearlo. Para esto, dividimos el grupo en dos, donde: 
+- Unos se centraron en trabajar sobre el Front End para que este sea lo más parecido posible al mock up. 
+- Mientras que el resto se dedicó a trabajar sobre las consultas para traer la información que necesitábamos visualizar.
+- 
+El resultado es como el que se ve en pantalla. 
+
+Llegados a este punto, teníamos casi todo lo solicitado por el cliente, aunque esto en un contexto controlado, donde solo estábamos trabajando con un solo fondo mutuo. Por ello, el siguiente objetivo era comprobar que el modelo de datos planteado realmente funciona como nosotros lo planeamos.
+
+## Iteración 3
+Viendo el tiempo restante, y centrándonos en nuestra prioridad de generar el mayor valor posible a nuestros clientes, reestructuramos nuestros objetivos:
+
+- Documentar el código del proyecto es prioridad absoluta. Esto le permitirá a LVA modificar cada fragmento de la aplicación que necesiten para acomodarse a sus futuras necesidades.
+- Comprobar que nuestro modelo funciona, agregando más fondos mutuos al sistema
+- Las características pendientes, serán implementadas priorizando que sean funcionales, mas no su apariencia. 
 
 
+# Aplicación
+Ahora viene el showcase w/ historia de usuario
 
 
 
