@@ -1,49 +1,70 @@
-# Introduction
-- Current Crisis
-- We could find solutions, but is not the priority of the society
-- We have knowledge and technology. Only it's needed to put the focus on this issue
-- 
+# Introducción
 
-Our planet is currently experiencing one of the most critical water and environmental crises in recorded history, being the aggressive human intervention in nature the main culprit. We as a species have spent many years trying to dominate nature by force, causing practically irreversible damage instead of working together with it. Noticing all the damage we already made, Bill Mollison and David Holmgren created the concept of permaculture, a way of living that tries to turn our negative impact over nature into a positive one. Most people ignore said crisis, either because they have their own problems or they simply do not know his magnitude. That's why even when this could end our civilization, not a lot of resources are put into find solutions.
+## Background
 
-Even if the current scenario doesn't seems to be positive at all, we have knowledge and technology at our service that could be use to find a way to stop this environmental crisis. We live in a society where smartphones and computers are used for everything. It's easier than ever to spread information and give to the world access to software and applications that could help us to deal with this crisis. At this point, it's obvious that there's not a clear path to follow to stop this. But it's also obvious that using technology to learn how we can use our limited resources efficiently, to improve our understanding in nature or making this information available for everyone, it's a good start.
+Nuestro planeta está viviendo una de las mayores crisis hídricas y medioambientales de la historia. Cada año empeora más y no tiene pinta de parar.
+El principal responsable de esta crisis es la propia humanidad. La agresiva forma en la que interactuamos con la naturaleza, dominándola en vez de vivir con ella en armonía nos ha llevado a este punto, causando un daño prácticamente irreversible.
 
-There're lot of instructors and teachers around the world that are using digital platforms to do classes and even using social media platforms to spread awareness. But there is a clear problem: we are losing the active learning that we could have in a classroom. Also, there other issue that is inherently related to the study of nature: We lose part of the active learning just by the fact that it requires time to develop, to evolve, to grow.
+Existen modelos que plantean formas de vida junto a la naturaleza como la permacultura, que propone un desarrollo de sistemas agricolas autosuficientes que no causen daño al entorno, Los métodos de trabajo y modelos que propone podrían ser de gran utilidad para aprovechar al máximo recursos que cada vez son más escasos dando espacio a que la naturaleza sane.
 
+Si bien es cierto que hay ideas de que se puede hacer para detener una crisis de semejante magnitud, no hay un camino claro a seguir. Pero si es seguro afirmar que un buen punto de partida es pulir el conocimiento que tenemos sobre la naturaleza. Potenciar las herramientas que tenemos para poder estudiarla mejor y crear nuevas soluciones bajo planteamientos similares a la permacultura que nos permitan llevar una vida en armonía con la naturaleza. 
 
-Andrew Millison. is an instructor in the Horticulture department who makes courses on permaculture at the Oregon University, in introductory or advanced levels. Some of these courses are online, which allows him to reach the houses of hundreds of students. In which he uses an Augmented Reality sandbox, that allows him to create different variations of terrains and run simple water simulations in real time. In other words, he's using technology to facilitate the understanding of nature, but then again, here we're losing an essential part of the learning process.
+## Problema
+Hay un montón de instructores y profesores alrededor del mundo que están usando plataformas digitales para hacer clases o incluso difundir información para generar consciencia sobre una crisis que sigue sin ser la prioridad social que debería ser.
 
-It is because of the above mentioned points that we propose the creation of an accessible interactive simulator that allows the user to do everything that's possible with Andrew's sandbox. That would facilitate the learning process for both the teacher and the students. The main features of this tool should be:
+Si bien es cierto que estas plataformas permiten tener un gran alcance, incluso con la capacidad de romper barreras culturales y lingüísticas, hay un problema: Las clases en línea pierden el *aprendizaje activo* que podría adquirirse haciéndolas presenciales. Además, hay otro problema inherente al estudio de la naturaleza: Esta requiere de tiempo para ver como crece, evoluciona y se desarrolla.
 
+Andrew Millison es un profesor en la Universidad de Oregon en el departamento de Horticultura que hace cursos sobre Permacultura en niveles introductorios y avanzados. Algunos de esos cursos son online, lo que le permite llegar a los hogares de cientos de estudiantes. En dichos cursos usa un AR Sandbox que le permite crear distintos tipos de terreno e ilustrar conceptos de sus clases en tiempo real. Además, tiene un canal de YouTube donde sube vídeos relacionados al tema que han creado un sano espacio de discusión donde nuevas ideas pueden surgir.
 
-
-As we said before, there's not a clear answer to the current crisis, but in an attempt to help, we propose to create an accessible interactive simulator that allows the user to do everything that's possible with Andrew's sandbox. That would facilitate the learning process for both the teacher and the students. The main features of this tool should be:
-
+Así como Andrew, hay un montón de gente allí afuera con iniciativas o proyectos geniales que podrían ser claves para solucionar esta crisis medioambiental, pero no hay suficientes recursos o herramientas de fácil acceso para impulsar esos talentos. 
 
 
 
+## Hipótesis
 
-Andrew Millison. is an instructor in the Horticulture department who makes courses on permaculture at the Oregon University, in introductory or advanced levels. Some of these courses are online, which allows him to reach the houses of hundreds of students. In which he uses an Augmented Reality sandbox, that allows him to create different variations of terrains and run simple water simulations in real time. In other words, he's using technology to facilitate the understanding of nature. 
+Actualmente vivimos en una sociedad en donde la tecnología está integrada en prácticamente todos los aspectos de nuestras vidas. Muchos tienen de alguna forma acceso a un computador o smartphone. Esto nos permite plantear la siguiente pregunta:
 
-There're lot of instructors and teachers like Andrew around the world that are using digital platforms. But there's a clear issue: Online classes could imply losing the active learning that we could have doing said classes in a classroom. In this particular case, we lose part of the active learning just by the fact that nature requires time to develop, to evolve.
-
-
-
-As we said before, there's not a clear answer to the current crisis, but in an attempt to help, we propose to create an accessible interactive simulator that allows the user to do everything that's possible with Andrew's sandbox. That would facilitate the learning process for both the teacher and the students. The main features of this tool should be:
-
+> ¿Que tal si aplicaciones que permitan ilustrar conceptos o poner a pruebas ideas como podría hacerlo un AR Sandbox, fuesen accesibles para todos desde la comodidad de su computador? 
+> 
+> Herramientas de fácil acceso como estás podrían cambiar radicalmente como se hacen cursos de, por ejemplo, permacultura. El tiempo requerido para ver como se desarrolla la naturaleza ya no sería una limitante, ya que un entorno digital permitiría hacer simulaciones en tiempo acelerado. Tampoco se necesitaría tener terrenos o muchos recursos para poner a prueba modelos de agricultura, solo bastaría con tener acceso a un computador para poder hacerlo.
 
 
-This is a perfect example of how technology could be use to affront our current crisis, educating the new generations that could find the answer to affront the crisis, but we're losing an important part here: active learning.
+## Propuesta
+
+Nosotros proponemos la creación de un simulador interactivo de permacultura de fácil acceso que le permita al usuario recrear tanto como sea posible hacer con el AR Sandbox que usa Andrew en sus cursos. Las características principales de esta aplicación deberían ser:
+
+1. Crear terrenos y darles cualquier forma que ellos quieran
+2. Mostrar curvas de nivel del terreno
+3. Simulaciones de agua que en tiempo real interactúen con el terreno previamente generado
+4. Tener una selección de items como árboles que puedan influir sobre el resultado final de las simulaciones
+5. Permitir que alguien pueda crear escenarios de prueba, compartirlo con otros para que estos últimos los analicen.
+
+Con tal de garantizar accesibilidad, sería una aplicación web. Todo esto sería un primer paso para ver cuanto impacto puede tener, facilitar a estudiantes una herramienta que les permita poner en práctica sus conocimientos.
+
+## Validación
+
+Nosotros proponemos para validar el impacto de una herramienta pedagógica como esta, que sea usada por estudiantes de un curso de permacultura. Trabajando junto al instructor, podemos hacer ejercicios mediante los cuales los alumnos puedan poner a prueba lo que saben, además de ver si esta herramienta es lo suficientemente poderosa para que puedan plasmar los conocimientos adquiridos durante el curso.
+
+Por cada ejercicio los estudiantes responderían encuestas que busquen saber su opinión y como fue su experiencia con la aplicación.
+
+*We propose to validate the impact of a pedagogical tool such as this, to be used by students in a permaculture course. Working together with the instructor, we can do exercises through which students can test what they know, and see if this tool is powerful enough for them to apply the knowledge acquired during the course.*
 
 
 
 
-characteristics of these courses is that they are online, which allows him to reach the homes of hundreds of students. Given such a large quantity, and the limitations of a digital platform used, it can be difficult to meet the needs of all his students or capture what is taught in a simple way, even more so because the subject is more practical than theoretical. 
-
-In an attempt to make his classes easier to understand, Andrew started using a system composed of a sandbox, sensors and a projector that allows him to create different variations of terrains and run simple simulations in real time 
 
 
 
-With it, he can display contour lines on the sandbox or add elements to his sandbox such as water and trees to see how they interact with the terrain in different configurations. This allows his students to easily visualize the concepts being studied, and more importantly, because it’s a simulation of what happens in nature, they can see them in accelerated time. Thus removing one of the most significant limitations associated with the study of permaculture. 
 
-While it is true that this presents a significant advance for what are online permaculture classes, this is a configuration too complex or impossible for their students to replicate it at home. The practical work is very important, and given the time limitations related to nature itself, it’s a difficult task to do without having a working environment like the one Andrew’s has
+
+
+
+
+
+
+
+
+
+
+
+
